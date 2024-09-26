@@ -331,7 +331,7 @@ h1{
                         <a class="dropdown-item" href="cirurgiasportipo.php">Cirurgias por tipo</a>
                         <a class="dropdown-item" href="cirurgioes.php">Cirurgiões</a>
                         <a class="dropdown-item" href="tabelageral.php">Tabela geral</a>
-                        <a class="dropdown-item" href="teste.php">Filtro Cirurgia</a>
+                        <!-- <a class="dropdown-item" href="teste.php">Filtro Cirurgia</a> -->
                     </div>
                 </div>
             </div>

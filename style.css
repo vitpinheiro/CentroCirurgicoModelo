@@ -1,0 +1,141 @@
+/* index */
+
+  .logo img{
+   width: 5em;
+   margin: 1em;
+  }
+  
+
+.info-box-icon {
+  margin-right: 10px; /* Adicione margem à direita */
+}
+
+.info-box-icon img {
+  width: 50px; /* Ajuste a largura da imagem */
+  height: auto; /* Mantenha a proporção */
+}
+
+.info-box-text  {
+  font-size: 18px; /* Defina o tamanho da fonte */
+  font-weight: bold; /* Defina a espessura da fonte */
+} 
+ 
+.info-box-content a{
+  color: black;
+}
+
+/* index */
+
+
+/* solicitações por status */
+h4{
+    color: grey ;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+    
+  h5{
+    text-align: right;
+    color: grey;
+  }
+  
+  h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  h2 a{
+    text-decoration: none;
+    color:white;
+  }
+  
+ 
+  .charts {
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  }
+  
+  #myChart{
+  width: 10em;
+  height: 90em;
+  
+  }
+  #navbarNav{
+  justify-content: right;
+  
+  }
+  
+  
+  /*  */
+      body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+   
+  }
+  
+  footer{
+    padding: 2em;
+  }
+  
+  .sidebar {
+    height: 100%;
+    width: 240px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #111B42;
+    padding-top: 20px;
+  }
+  
+  .sidebar h2 {
+    color: white;
+    text-align: center;
+    
+    
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar ul li {
+    padding: 8px;
+    text-align: center; 
+   }
+  
+  .sidebar ul li a {
+    color: white;
+    text-decoration: none;
+    
+  }
+  
+  .sidebar ul li a:hover {
+    background-color: #555;
+  }
+  
+  .content {
+    margin-left: 250px;
+    padding: 20px;
+    height: 20em;
+  } */
+  /*  */
+  .line {
+    width: 25px;
+    height: 3px;
+    background-color: black;
+    margin: 5px 0;
+  }
+  /* Ajustes gerais */
+  body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .wrapper {
+    display: flex;
+    
+  }
+
+
